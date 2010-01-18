@@ -59,7 +59,7 @@ BEAMS
 (d 17  , 18 )
 (d 19  , 20 )
 (d 21  , 22 )
-FREE_PLACEABLES ( < 1 -0.161801 -0.818586 > TEMPO_SIGN 11531520 0 115) ( < 14 -0.221880 -0.849402 > FREE_TEXT 32 Verse (singing starts on repeat) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 0 0 0  ) 
+FREE_PLACEABLES ( < 1 -0.161801 -0.818586 > TEMPO_SIGN 11531520 0 116) ( < 14 -0.221880 -0.849402 > FREE_TEXT 32 Verse (singing starts on repeat) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 0 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -146,7 +146,7 @@ BEAMS
 (d 93  , 94  , 95 )
 (u 96  , 97 )
 (u 98  , 99 )
-FREE_PLACEABLES ( < 87 -0.086382 -0.930930 > FREE_TEXT 6 Chorus 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 87 -0.086382 -0.930930 > FREE_TEXT 13 Chorus (0:50) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -175,7 +175,7 @@ BEAMS
 (d 121  , 122  , 123  , 124 )
 (d 126  , 127 )
 (d 128  , 129 )
-FREE_PLACEABLES ( < 125 -0.129212 -0.974570 > FREE_TEXT 5 Verse 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 125 -0.129212 -0.974570 > FREE_TEXT 12 Verse (1:07) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(nu 128, 1  { _10  [  head :  7  ] } )(nu 128, 1  { _10  [  head :  7  ] } )(nu 128, 1  { _10  [  head :  7  ] } )(nu 128, 1  { _10  [  head :  7  ] } )(nu 128, 400001  { _10  [  head :  7  ] } )(r 128, 800000 )(r 256, 800000 )(rh 512, 0 )
 VOICE 2
@@ -261,7 +261,7 @@ BEAMS
 (u 204  , 205 )
 (u 206  , 207 )
 (u 208  , 209 )
-FREE_PLACEABLES ( < 202 -0.041151 -0.913270 > FREE_TEXT 6 Chorus 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 202 -0.041151 -0.913270 > FREE_TEXT 13 Chorus (1:45) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -316,7 +316,7 @@ BEAMS
 (u 255  , 256 )
 (u 257  , 258 )
 (u 259  , 260 )
-FREE_PLACEABLES ( < 244 -0.193866 -1.063668 > FREE_TEXT 11 Guitar Solo 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 244 -0.193866 -1.063668 > FREE_TEXT 18 Guitar Solo (2:00) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -370,7 +370,7 @@ BEAMS
 (u 309  , 310  , 311  , 312 )
 (u 313  , 314 )
 (u 315  , 316 )
-FREE_PLACEABLES ( < 288 -0.168183 -0.897529 > FREE_TEXT 6 Chorus 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 288 -0.168183 -0.897529 > FREE_TEXT 13 Chorus (2:34) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -427,7 +427,7 @@ BEAMS
 (u 376  , 377 )
 (u 378  , 379 )
 (u 380  , 381 )
-FREE_PLACEABLES ( < 365 -0.216478 -0.955477 > FREE_TEXT 5 Verse 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 365 -0.216478 -0.955477 > FREE_TEXT 12 Verse (2:50) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -510,7 +510,7 @@ BEAMS
 (u 452  , 453 )
 (u 454  , 455 )
 (u 456  , 457 )
-FREE_PLACEABLES ( < 446 -0.155130 -0.890714 > FREE_TEXT 6 Chorus 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 446 -0.155130 -0.890714 > FREE_TEXT 13 Chorus (3:32) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
@@ -563,7 +563,7 @@ BEAMS
 (d 494  , 495  , 496  , 497 )
 (d 498  , 499  , 500 )
 (d 501  , 502  , 503 )
-FREE_PLACEABLES ( < 494 0.186968 -0.983119 > FREE_TEXT 17 Vamp for outro... 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
+FREE_PLACEABLES ( < 486 -0.140848 -1.115746 > FREE_TEXT 6 (3:52) 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) ( < 494 0.186968 -0.983119 > FREE_TEXT 17 Vamp for outro... 4 Sans 0.333293 0 64 0 120 0 -1 0 1 1 0 0  ) 
 VOICE 1
 (rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )(rh 512, 0 )
 VOICE 2
